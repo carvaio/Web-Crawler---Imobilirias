@@ -13,13 +13,6 @@ csv_writer.writerow(['titulo','preço','condominio','iptu','descriçao','localiz
 ```
 
 
-
-
-    81
-
-
-
-
 ```python
 scraper = cfscrape.create_scraper()
 url = "https://www.vivareal.com.br/aluguel/rj/rio-de-janeiro/?pagina=1"
@@ -104,10 +97,6 @@ for i in todos_links:
 
 
 ```
-
-    https://www.vivareal.com.br/aluguel/rj/rio-de-janeiro/?pagina=1
-
-
 
 ```python
 csv_file.close()
