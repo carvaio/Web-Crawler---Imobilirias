@@ -15,8 +15,7 @@ csv_writer.writerow(['titulo','preço','condominio','iptu','descriçao','localiz
 
 
 
-    81
-
+   
 
 
 
@@ -111,6 +110,4 @@ csv_file.close()
 ```
 
 
-```python
 
-```
