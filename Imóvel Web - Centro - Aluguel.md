@@ -103,7 +103,7 @@ for i in todos_links:
 
         print(titulo,preço,localizaçao,inf,info)
         csv_writer.writerow([titulo,preço,localizaçao,inf,info])
- 
+``` 
 ```python
     csv_file.close()
 ```
