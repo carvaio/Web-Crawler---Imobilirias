@@ -19,9 +19,6 @@ oi =int(1048/20) + (1048 % 20 > 0)
 print(oi)
 ```
 
-    53
-
-
 
 ```python
 csv_file = open('casamineira_centro_aluguel.csv','w', encoding='utf-8')
